@@ -47,7 +47,7 @@
     {
         "id": "6",
         "name": "REACT-JS",
-        "img": "https://www.scnsoft.com/blog-pictures/cover-pics/react_js.png",
+        "img": "https://examplecode.org/wp-content/uploads/2022/05/reactjs.png",
         "details":"React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
         "price":"2100",
         "lectures":"30",
