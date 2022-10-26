@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "PHP",
-        "img": "https://www.php.net/images/meta-image.png",
+        "img": "https://postingtag.com/wp-content/uploads/2022/06/Core-PHP-Tutorial-.png",
         "details":"PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
         "price":"1000",
         "lectures":"20",
@@ -11,7 +11,7 @@
     {
         "id": "2",
         "name": "DOT.NET",
-        "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/130147272/original/f771598bfb790f953b81a36b17692a167dd62fb6/do-asp-dot-net-core-and-angular-web-application.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtmrGxtDhTLqO9DxZUK3r7Hlmbp_wA5bc8nzJ8qO_qjvs5wMnU-09tkwYeSGAtKzqC2I&usqp=CAU",
         "details":"NET (dot NET) course is a software developing course, where the developers use dot Net framework and machine level languages to develop different software. It is a free open source platform to develop different types of software applications.",
         "price":"1500",
         "lectures":"25",
@@ -20,7 +20,7 @@
     {
         "id": "3",
         "name": "WORDPRESS",
-        "img": "https://digitalconsulting.co.za/wp-content/uploads/2017/03/wordpress.jpg",
+        "img": "https://vietnix.vn/wp-content/uploads/2022/06/thiet-ke-web-WordPress.webp",
         "details":"WordPress is an open-source content management system (CMS). It's a popular tool for individuals without any coding experience who want to build websites and blogs. The software doesn't cost anything. Anyone can install, use, and modify it for free",
         "price":"1200",
         "lectures":"18",
@@ -29,7 +29,7 @@
     {
         "id": "4",
         "name": "LARABELL",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPTViRjJVarWMNfNKWBJcYDnQXuZtmGn94WX_q5CPH5OsinZln3fWkSAwvoXq4zEriXs&usqp=CAU",
+        "img": "https://dash.ps/wp-content/uploads/2020/08/php-framework-laravel.jpg",
         "details":"Laravel is an open-source PHP framework, which is robust and easy to understand. It follows a model-view-controller design pattern. Laravel reuses the existing components of different frameworks which helps in creating a web application. The web application thus designed is more structured and pragmatic.",
         "price":"1700",
         "lectures":"23",
@@ -38,7 +38,7 @@
     {
         "id": "5",
         "name": "NODE-JS",
-        "img": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+        "img": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/nodejs-reference-architecture_2x.png?itok=IADzXWmx",
         "details":"Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.",
         "price":"1900",
         "lectures":"27",
@@ -47,7 +47,7 @@
     {
         "id": "6",
         "name": "REACT-JS",
-        "img": "https://examplecode.org/wp-content/uploads/2022/05/reactjs.png",
+        "img": "https://hackr.io/blog/react-courses/thumbnail/large",
         "details":"React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
         "price":"2100",
         "lectures":"30",
