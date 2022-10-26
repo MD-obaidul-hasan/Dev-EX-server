@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "name": "PHP",
+        "img": "https://www.php.net/images/meta-image.png",
+        "details":"php courses",
+        "price":"100",
+        "lectures":"20",
+        "quiz":"10"
+    },
+    {
+        "id": "2",
+        "name": "DOT.NET"
+    },
+    {
+        "id": "3",
+        "name": "WORDPRESS"
+    },
+    {
+        "id": "4",
+        "name": "LARABELL"
+    },
+    {
+        "id": "5",
+        "name": "NODE-JS"
+    },
+    {
+        "id": "6",
+        "name": "REACT-JS"
+    }
+]
