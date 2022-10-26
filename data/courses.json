@@ -3,7 +3,7 @@
         "id": "1",
         "name": "PHP",
         "img": "https://www.php.net/images/meta-image.png",
-        "details":"php courses",
+        "details":"PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
         "price":"1000",
         "lectures":"20",
         "quiz":"10"
