@@ -20,7 +20,8 @@ app.get('/course/:id', (req, res) => {
     const selectedCoDe = courses.find( c => c.id === id);
     res.send(selectedCoDe);
 })
-
+ 
+// app.post 
 app.listen(port, () => {
 console.log('Dev-ex Server Runng on port', port);
 })
